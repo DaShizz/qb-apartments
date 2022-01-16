@@ -2,6 +2,8 @@
 
 **THIS ONLY WORKS FOR ALTA STREET APARTMENT AS OF NOW**
 
+Merged uShifty's PR for qb-apartments solving Seeing Unwanted Players in apartments.
+
 Edited version of qb-apartments utilizing [qb-target](https://github.com/BerkieBb/qb-target) and [cd_drawtext](https://github.com/dsheedes/cd_drawtextui)
 
 [Preview](https://streamable.com/3mkblq)
